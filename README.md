@@ -1,7 +1,13 @@
 # JS_function
 
-関数について。
-内容は、https://jsprimer.net/basic/function-declaration/に準拠します。
+## 使用上の注意
+これは、幼稚園生でもJavaScriptの関数を理解しようとする試みです。
+
+端折っているところもあるので、必ず自分でも内容を確認して下さい。
+
+記載内容は、
+https://jsprimer.net/basic/function-declaration/
+に準拠します。
 
 ## プログラムの処理の順番 - sync
 プログラミングは基本は上から処理されます。
